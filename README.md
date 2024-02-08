@@ -1,16 +1,11 @@
-## weather_app
+# weather_app
 
-Suhana Weather App
+## Project Breakdown
 
-## Getting Started
+- Display UI with movie select Location and weather info
+- It track weather forecasts and current conditions in real-time. Users enter the name of the location and get the
+  weather information of that location.
+- It gives details including Temperature, Airspeed, and Humidity.
+- Flutter,VS Code,Weather API
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
